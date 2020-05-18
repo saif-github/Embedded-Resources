@@ -1,2 +1,3 @@
 # Embedded-Resources
-These resources helped me understand the Embedded systems.This is best of my knowledge
+These resources are basic to kick start on Embedde systems.
+only for Beginners.
